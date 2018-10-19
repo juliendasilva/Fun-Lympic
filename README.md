@@ -3,6 +3,9 @@
 [The project presentation is available here](https://github.com/juliendasilva/Fun-Lympic/blob/master/Fun'Lympic_Presentation.pdf)
 
 ## Techno
+
+[![GuardRails badge](https://badges.production.guardrails.io/juliendasilva/Fun-Lympic.svg)](https://www.guardrails.io)
+
 Webpack
 
 Phaser.js
